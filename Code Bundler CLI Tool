@@ -9,3 +9,4 @@ removing empty lines, and adding metadata like source paths and authorship infor
 - Options for sorting files and removing empty lines.
 - Add metadata to the output, such as the author's name and source folder path.
 - Support for response files (`.rsp`) to simplify repetitive command-line inputs.
+
